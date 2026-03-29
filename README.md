@@ -8,7 +8,7 @@ A powerful Android application designed for developers and engineers to **test, 
 
 <p align="center">
   <img src="screenshots/screen_menu.jpeg" width="250"/>
-  <img src="screenshots/screen_menu.jpeg" width="250"/>
+  <img src="screenshots/screen_ble_scanner.jpeg" width="250"/>
 </p>
 
 ## 🚀 Features
