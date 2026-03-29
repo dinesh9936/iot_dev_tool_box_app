@@ -38,6 +38,13 @@ A powerful Android application designed for developers and engineers to **test, 
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/screen_menu.jpeg" width="250"/>
+  <img src="screenshots/screen_menu.jpeg" width="250"/>
+</p>
+
 ## 🏗️ Built With
 
 * **Kotlin**
