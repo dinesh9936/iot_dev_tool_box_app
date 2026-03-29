@@ -59,7 +59,7 @@ A powerful Android application designed for developers and engineers to **test, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git https://github.com/dinesh9936/iot_dev_tool_box_app.git
    ```
 
 2. Open in **Android Studio**
